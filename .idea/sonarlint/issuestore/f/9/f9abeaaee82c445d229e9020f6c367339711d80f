@@ -1,0 +1,6 @@
+
+Msquid:S2200,"/Only the sign of the result should be examined.(ÛşÅô8áî¯ÊÇ.
+ˆsquid:UselessImportCheck"XRemove this unused import 'com.ziina.wallet.core.common.exceptions.ValidationException'.(ªÚ¬ìÿÿÿÿÿ8Æ×ãÉÇ.
+{squid:UselessImportCheck"PRemove this unused import 'org.springframework.validation.annotation.Validated'.(¸ÒÖƒ8‡ÉÇ.
+qsquid:S1602("SRemove useless curly braces around statement and then remove useless return keyword(³ë‚ô8‡ÉÇ.
+qsquid:S1602;"SRemove useless curly braces around statement and then remove useless return keyword(³ë‚ô8£§ÊÇ.

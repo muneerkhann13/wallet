@@ -1,0 +1,6 @@
+
+Ÿsquid:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÖÅ†£8½¾«´È.
+”squid:UselessImportCheck
+"dRemove this unused import 'org.springframework.statemachine.config.builders.StateMachineConfigurer'.(¹÷Ëüÿÿÿÿ8ª¶´²È.
+Ssquid:S1854#"5Remove this useless assignment to local variable "q".(ˆ˜ü°8¯öˆ£Ö.
+Dsquid:S1481#"&Remove this unused "q" local variable.(ˆ˜ü°8¯öˆ£Ö.
